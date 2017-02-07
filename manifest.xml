@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+	<update>
+		<name>Parallax Scroll Package</name>
+		<description>Joomla! Parallax Scroll Update.</description>
+		<element>mod_parallax_scroll</element>
+		<type>package</type>
+		<version>1.5.0</version>
+		<client>site</client>
+		<infourl title="Parallax Scroll Package">https://github.com/logichunthub/Joomla-Parallax-Scroll/releases/tag/1.5.0</infourl>
+
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/logichunthub/Joomla-Parallax-Scroll/releases/download/1.5.0/mod_parallax_scroll_v1.5.0.zip</downloadurl>
+		</downloads>
+		<targetplatform name="joomla" version="3.[56789]" />
+	</update>
+</updates>
