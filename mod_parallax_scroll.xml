@@ -7,7 +7,7 @@
     <license>license GNU/GPLv3 http://www.gnu.org/licenses/gpl-3.0.html</license>
     <authorEmail>logichunt.info@gmail.com</authorEmail>
     <authorUrl>http://logichunt.com</authorUrl>
-    <version>1.5.0</version>
+    <version>1.6.0</version>
     <description>
         <![CDATA[
 		<div style='text-align: left;'>
@@ -157,4 +157,7 @@
             </fieldset>
         </fields>
     </config>
+    <updateservers>
+        <server type="extension" name="Parallax Scroll">https://raw.githubusercontent.com/logichunthub/Joomla-Parallax-Scroll/master/manifest.xml</server>
+    </updateservers>
 </extension>
